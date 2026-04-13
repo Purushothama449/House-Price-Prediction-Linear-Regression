@@ -48,6 +48,7 @@ The objective of this project is to implement Linear Regression and predict hous
 
 ### Actual vs Predicted Prices
 ![Output](actual_vs_predicted_house_prices.jpg)
+![Output](output.jpg)
 
 ---
 
